@@ -1,6 +1,7 @@
 # Golden-testcode
 To run this project at localhost, follow this step:
-    - You should have xampp and start Apache module.
+    - You should have Xampp and start Apache module.
+    - Remember to place the back-end folder inside the folder htdocs of Xampp (with me it is C:\xampp\htdocs)
     - Go to the front-end: cd G-sneaker-frontend
     - Install package: npm install
     - Run the command: npm run dev
